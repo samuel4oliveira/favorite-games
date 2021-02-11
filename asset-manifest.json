@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/favorite-games/static/css/main.af6b7ddb.chunk.css",
+    "main.js": "/favorite-games/static/js/main.fea18f6e.chunk.js",
+    "main.js.map": "/favorite-games/static/js/main.fea18f6e.chunk.js.map",
+    "runtime-main.js": "/favorite-games/static/js/runtime-main.4f550aa9.js",
+    "runtime-main.js.map": "/favorite-games/static/js/runtime-main.4f550aa9.js.map",
+    "static/js/2.0a6a2d4d.chunk.js": "/favorite-games/static/js/2.0a6a2d4d.chunk.js",
+    "static/js/2.0a6a2d4d.chunk.js.map": "/favorite-games/static/js/2.0a6a2d4d.chunk.js.map",
+    "index.html": "/favorite-games/index.html",
+    "static/css/main.af6b7ddb.chunk.css.map": "/favorite-games/static/css/main.af6b7ddb.chunk.css.map",
+    "static/js/2.0a6a2d4d.chunk.js.LICENSE.txt": "/favorite-games/static/js/2.0a6a2d4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f550aa9.js",
+    "static/js/2.0a6a2d4d.chunk.js",
+    "static/css/main.af6b7ddb.chunk.css",
+    "static/js/main.fea18f6e.chunk.js"
+  ]
+}
